@@ -21,3 +21,22 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# OS-specific
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Testing
+jest-cache/
+jest-config/
+
+# Process manager logs
+*.pid
+*.seed
+*.pid.lock
+
+# React-specific
+.cache/
